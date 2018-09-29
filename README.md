@@ -3,11 +3,7 @@
  	
  ------------------------		
 
-Supply chain management on blockchain using Angular 4 + Truffle + IPFS + Ethereum
-
-
-## How to use
-There are 2 small parts to successfully running this project.
+Supply chain management on blockchain.
 
 ### Prerequisite
 
@@ -46,17 +42,6 @@ There are 2 small parts to successfully running this project.
 3. `/distributor`
 4. `/manufacturer`
 5. `/supplier`
-
-### Todo:
-
-1. Access IPFS from browser (Remove separate script for IPFS upload).
-
-## Technologies & Languages Used:
-1. Angular4 (Typescript/Javascript)
-2. Truffle (Solidity)
-3. IPFS
-4. Node.js
-5. Express
 
 ## Acknowledgments
 
