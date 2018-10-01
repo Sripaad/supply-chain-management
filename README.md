@@ -19,7 +19,7 @@ Supply chain management on blockchain.
 ### Part 1
 
 
-1. `cd supply-chain`
+1. `cd supply-chain-management`
 2. `npm install`
 3. `sudo npm install -g @angular/cli@latest`
 (windows users might have to do: `npm install -g @angular/cli@latest`)
