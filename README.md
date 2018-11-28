@@ -3,7 +3,7 @@
  	
  ------------------------		
 
-__Supply chain management using blockchain.__
+*__Supply chain management using blockchain.__*
 
 ### Prerequisite
 
