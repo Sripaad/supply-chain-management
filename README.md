@@ -3,16 +3,14 @@
  	
  ------------------------		
 
-Supply chain management using blockchain.
+__Supply chain management using blockchain.__
 
 ### Prerequisite
 
     1. Node.js
     2. IPFS
-      (
-       for windows : https://docs.ipfs.io/introduction/install/#windows
+      for windows : https://docs.ipfs.io/introduction/install/#windows
       for linux and mac :https://docs.ipfs.io/introduction/install/#mac-os-x-and-linux
-      )
     3. Truffle Framework (`sudo npm install -g truffle` or on windows use ` npm install -g truffle`)
     4. Testrpc (`sudo npm install -g ethereumjs-testrpc` or on windows use ` npm install -g ethereumjs-testrpc`)
 
