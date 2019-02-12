@@ -38,11 +38,11 @@
 
 ### URLs
 
-    1. `/login`
-    2. `/retailer`
-    3. `/distributor`
-    4. `/manufacturer`
-    5. `/supplier`
+    1. /login
+    2. /retailer
+    3. /distributor
+    4. /manufacturer
+    5. /supplier
 
 ## Acknowledgments
 
